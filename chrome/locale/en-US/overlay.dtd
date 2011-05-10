@@ -1,0 +1,8 @@
+<!ENTITY gnusson.label "Your localized menuitem">
+<!ENTITY gnussonContext.label "Your Menuitem">
+<!ENTITY gnussonContext.accesskey "Y">
+<!ENTITY gnussonToolbarButton.label "Your Toolbar Button">
+<!ENTITY gnussonToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY gnussonSidebar.label "Your Sidebar">
+<!ENTITY gnussonToolbar.name  "example">
+<!ENTITY gnussonToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &gnussonToolbar.name;">
